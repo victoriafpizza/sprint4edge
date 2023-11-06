@@ -1,6 +1,7 @@
 # Projeto Lixeira Inteligente ReUse
 
-Bem-vindo ao projeto da Lixeira Inteligente, uma inovação destinada a incentivar a reciclagem e promover a consciência ambiental. Este sistema, construído utilizando ESP32 e uma variedade de componentes eletrônicos, transforma a simples ação de descartar resíduos em uma experiência interativa e educativa.
+Bem-vindo ao projeto da Lixeira Inteligente, uma inovação destinada a incentivar a reciclagem e promover a consciência ambiental. 🌍♻️ 
+Este sistema, construído utilizando ESP32 e uma variedade de componentes eletrônicos, transforma a simples ação de descartar resíduos em uma experiência interativa e educativa.
 
 ## Objetivo
 
@@ -21,7 +22,7 @@ Carregue o código-fonte no Arduino ou ESP32.
 
 Coloque a lixeira em um local de fácil acesso para os usuários e inicie a interação
 
-Aproveite esta solução inteligente e engajadora para transformar a reciclagem em um hábito diário e contribuir para um mundo mais limpo e sustentável. Juntos, podemos fazer a diferença! 🌍♻️
+Aproveite esta solução inteligente e engajadora para transformar a reciclagem em um hábito diário e contribuir para um mundo mais limpo e sustentável. Juntos, podemos fazer a diferença! 
 
 ## Componentes Utilizados
 
@@ -33,7 +34,8 @@ LED LCD 16x2: Este componente é um display de cristal líquido (LCD) que exibe 
 
 ## Função de Cada Componente
 
-> ESP32: O ESP32 expande as funcionalidades do sistema, possibilitando a comunicação sem fio e outras capacidades avançadas.
-> Sensor de Distância: Mede a distância entre o sensor e um objeto usando ondas ultrassônicas.
-> Resistor: Controla a corrente elétrica em certas partes do circuito, garantindo um funcionamento seguro e adequado.
-> Certifique-se de conectar e configurar corretamente cada componente para garantir o funcionamento adequado do sistema. Consulte a documentação específica de cada componente para obter detalhes sobre sua conexão e uso.
+* ESP32: O ESP32 expande as funcionalidades do sistema, possibilitando a comunicação sem fio e outras capacidades avançadas.
+* Sensor de Distância: Mede a distância entre o sensor e um objeto usando ondas ultrassônicas.
+* Resistor: Controla a corrente elétrica em certas partes do circuito, garantindo um funcionamento seguro e adequado.
+
+Certifique-se de conectar e configurar corretamente cada componente para garantir o funcionamento adequado do sistema. Consulte a documentação específica de cada componente para obter detalhes sobre sua conexão e uso.
