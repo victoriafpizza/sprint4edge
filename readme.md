@@ -31,12 +31,15 @@ ESP32: O ESP32 é um microcontrolador com capacidades de conectividade Wi-Fi e B
 
 Sensor de Distância: Este sensor mede a distância de um objeto a partir do ponto de emissão de um sinal.
 
-LED LCD 16x2: Este componente é um display de cristal líquido (LCD) que exibe informações do sistema.
+LEDs: Os LEDs são usados para indicar diferentes estados ou informações, como alertas ou status do sistema.
+
+Resistor: O resistor é um componente eletrônico que controla a corrente elétrica no circuito.
 
 ## Função de Cada Componente
 
 * ESP32: O ESP32 expande as funcionalidades do sistema, possibilitando a comunicação sem fio e outras capacidades avançadas.
 * Sensor de Distância: Mede a distância entre o sensor e um objeto usando ondas ultrassônicas.
 * Resistor: Controla a corrente elétrica em certas partes do circuito, garantindo um funcionamento seguro e adequado.
+* LEDs: Indicam diferentes estados ou informações com base nos dados recebidos ou nas ações realizadas pelo sistema.
 
 Certifique-se de conectar e configurar corretamente cada componente para garantir o funcionamento adequado do sistema. Consulte a documentação específica de cada componente para obter detalhes sobre sua conexão e uso.
