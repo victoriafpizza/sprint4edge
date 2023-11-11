@@ -54,4 +54,4 @@ Certifique-se de conectar e configurar corretamente cada componente para garanti
 * Victória Franceschini rm55060
 
 ## Link do repositório
-[aqui]{https://github.com/victoriafpizza/sprint4edge}
+[Clicar aqui!](https://github.com/victoriafpizza/sprint4edge)
