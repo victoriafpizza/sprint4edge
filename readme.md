@@ -19,6 +19,7 @@ Comunicação com Usuários: Utilizando os dados que são enviadospra nuvem, ele
 ## Como Utilizar
 
 Certifique-se de que todos os componentes estejam devidamente conectados e configurados conforme as instruções deste repositório.
+
 Carregue o código-fonte no Arduino ou ESP32.
 
 Coloque a lixeira em um local de fácil acesso para os usuários e inicie a interação
@@ -43,3 +44,11 @@ Resistor: O resistor é um componente eletrônico que controla a corrente elétr
 * LEDs: Indicam diferentes estados ou informações com base nos dados recebidos ou nas ações realizadas pelo sistema.
 
 Certifique-se de conectar e configurar corretamente cada componente para garantir o funcionamento adequado do sistema. Consulte a documentação específica de cada componente para obter detalhes sobre sua conexão e uso.
+
+## Integrantes da equipe Cyber Wave
+
+* Emanuelle Soares rm97973
+* Enzo Shiotuqui rm551508
+* Murilo Roveri rm97893
+* Ricardo Hilkner rm550757
+* Victória Franceschini rm55060
